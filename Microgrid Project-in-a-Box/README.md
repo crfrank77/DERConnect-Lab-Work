@@ -1,0 +1,2 @@
+# Microgrid Project-in-a-Box
+The Microgrid Optimization project serves as the 4th project-in-a-box seminar that DERConnect produced for community outreach. This folder contains the Optimization simulation code, with a link to allow viewers to utilize the optimization code on their own devices. The attached presentation is utilized in community outreach events to provide background and directions for attendees curious about Microgrid optimization.
